@@ -7,7 +7,7 @@ Title: Python Dictionary Search Engine
 	4. Execute "search-dictionary.py" to perform a search in the dictionary.
 * This project is a part of my internship work at KnitArena.
 
-This directory contains 5 important files:
+* This directory contains 5 important files:
 	1. dictionary.rar
 	2. dictionary.txt - Extracted from "dictionary.rar"
 	3. dictionary.py - Processes data from "dictionary.txt" and writes processed data to "dictionary-in-text-file.txt"
