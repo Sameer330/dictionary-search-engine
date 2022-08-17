@@ -42,7 +42,7 @@ elif upper_user_input not in dictionary:
         # Iterate through the 'list' of all alternate 'keys' and display all meanings
             print(dictionary[keys][i])
 
-# Lines 17 through 22 is performed if query is not found
+# Lines 36 through 43 are executed if query is not found in the dictionary
 # It checks for the entered query in all keys
 # If entered query is a substring of any key, that key is stored in 'sub_keys' list
-# Then show all possible meanings for non-existing query
+# Then display all possible alternate words and their meanings
